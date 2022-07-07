@@ -4,6 +4,7 @@
 
 <p align="center">
 <Strong>📫Email</Strong><br>onuonu2222@gmail.com<br>
+<Strong> 📝Blog</Strong><br>https://velog.io/@wonz<br>
 </p>
 
 <br>
