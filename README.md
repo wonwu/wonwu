@@ -47,7 +47,7 @@
 
 <div align=center>
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true)
+<!-- ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true) -->
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bj_one)](https://solved.ac/bj_one) 
   
