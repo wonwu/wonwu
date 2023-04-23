@@ -46,8 +46,7 @@
 <br>
 
 <div align=center>
-
-<!-- ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true) -->
+<img src="https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true&theme=github_light" width="550px">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bj_one)](https://solved.ac/bj_one) 
   
