@@ -46,7 +46,7 @@
 <br>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true&theme=github_light" width="550px">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=wonwu&show_icons=true&theme=github_light" width="550px"> -->
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bj_one)](https://solved.ac/bj_one) 
   
